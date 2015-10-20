@@ -7,8 +7,8 @@ public class ToDoItem {
     String text;
     boolean isDone;
 
-    public ToDoItem(String textl, boolean isDone) {
-        this.text = textl;
+    public ToDoItem(String text, boolean isDone) {
+        this.text = text;
         this.isDone = isDone;
     }
 
